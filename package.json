@@ -1,9 +1,8 @@
 {
-  "name": " vue-sneakers",
+  "name": "vue-sneakers",
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://1natalia9.github.io/vue-sneakers",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
