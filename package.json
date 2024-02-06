@@ -2,10 +2,7 @@
   "name": "vue-sneakers",
   "version": "0.0.0",
   "private": true,
-<<<<<<< HEAD
-  "homepage": "https://1natalia9.github.io/shop_august_final/",
-=======
->>>>>>> fdccf34672cd3b1ae3382379f88aa3b88c051109
+
   "type": "module",
   "scripts": {
     "dev": "vite",
