@@ -2,7 +2,7 @@
   "name": "vue-sneakers",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://1natalia9.github.io/shop/",
+ 
   "type": "module",
   "scripts": {
     "dev": "vite",
