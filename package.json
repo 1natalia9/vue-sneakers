@@ -2,13 +2,13 @@
   "name": "vue-sneakers",
   "version": "0.0.0",
   "private": true,
- 
+  "homepage": "https://1natalia9.github.io/shop/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "npm run build && gh-pages -d build",
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
     "format": "prettier --write src/"
