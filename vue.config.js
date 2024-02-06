@@ -1,5 +1,5 @@
 const { defineConnfig } = require('vue/cli-service')
 module.exports = defineConnfig({
-    publcPath: `/shop/`,
+    publicPath: `/shop/`,
     transpileDependencies: true
 })
