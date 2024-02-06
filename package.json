@@ -2,7 +2,7 @@
   "name": "vue-sneakers",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://1natalia9.github.io/shop/",
+  "homepage": "https://1natalia9.github.io/shop_august_final/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -28,7 +28,9 @@
     "autoprefixer": "^10.4.16",
     "eslint": "^8.49.0",
     "eslint-plugin-vue": "^9.17.0",
+    "gh": "^2.8.9",
     "gh-pages": "^6.1.1",
+    "pages": "^0.0.16",
     "postcss": "^8.4.33",
     "prettier": "^3.0.3",
     "tailwindcss": "^3.4.0",
