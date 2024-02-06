@@ -2,16 +2,19 @@
   "name": "vue-sneakers",
   "version": "0.0.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://1natalia9.github.io/shop_august_final/",
+=======
+>>>>>>> fdccf34672cd3b1ae3382379f88aa3b88c051109
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "npm run build && gh-pages -d build",
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
-    "format": "prettier --write src/"
+    "format": "prettier --write src/",
+    "predeploy": "npm run build",
+    "deploy": "npm run build && gh-pages -d build"
   },
   "dependencies": {
     "@formkit/auto-animate": "^0.8.1",
