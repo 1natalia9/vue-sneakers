@@ -15,8 +15,7 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
-  },
-  publicPath: '/vue-sneakers',
+  }
 })
 
 // import{defineConfig} from 'vite'
