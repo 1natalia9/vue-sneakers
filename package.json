@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://1natalia9.github.io/vue-sneakers/",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
