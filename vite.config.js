@@ -6,7 +6,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-//  base: `/vue-sneakers`,
+//  base: `/deployng-vue-sneakers`,
   publicPath: `/vue-sneakers/`,
   plugins: [
     vue(),
@@ -25,6 +25,6 @@ export default defineConfig({
 // // https://vitejs.dev/config/
 
 // export default defineConfig({
-//   base: '/deployng-vue-sneakers',
+//   publicPath: `/deployng-vue-sneakers/`,
 //   plugins: [vue()]
 // })
