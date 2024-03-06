@@ -17,7 +17,7 @@ export default defineConfig({
     }
   }
   // ,
-  // base: '/vue-sneakers',
+  // base: "/vue-sneakers",
 })
 
 // import{defineConfig} from 'vite'
