@@ -27,6 +27,7 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   // base: "/vue-sneakers",
+  publicPath: `/vue-sneakers/`,
   plugins: [vue()]
 })
 // mmm
