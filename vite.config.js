@@ -8,8 +8,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // base: "/vue-sneakers",
-  publicPath: process.env.NODE_ENV === 'production' ? '/vue-sneakers/' : '/',
+  publicPath: "/vue-sneakers",
   plugins: [
     vue(),
     vueJsx(),
@@ -20,7 +19,7 @@ export default defineConfig({
     }
   }
   // ,
-  // base: "/vue-sneakers",
+  // base: `/vue-sneakers`,
 })
 
 // import{defineConfig} from 'vite'
