@@ -1,5 +1,5 @@
 /* ... */
-import { publicPath } from '../vue.config'
+import { publicPath } from './vite.config'
 /* ... */
 export default new Router({
     mode: 'history',
