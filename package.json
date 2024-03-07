@@ -2,7 +2,7 @@
   "name": "vue-sneakers-final",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://1natalia9.github.io/vue-sneakers",
+ 
   "type": "module",
   "scripts": {
     "dev": "vite",
