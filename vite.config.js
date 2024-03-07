@@ -14,15 +14,17 @@ export default defineConfig({
   plugins: [
     vue(),
     vueJsx(),
+    
   ],
   
   resolve: {
+    
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   }
-  // ,
-  // base: `/vue-sneakers`,
+  ,
+  base: `./vue-sneakers`,
 })
 
 // import{defineConfig} from 'vite'
